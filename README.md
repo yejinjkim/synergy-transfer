@@ -8,8 +8,12 @@ Obtain drug combination data from [drugcomb](https://drugcomb.fimm.fi/)
 ./data-external/cell/
 ./data-external/drug/
 ```
+## Requirements
+```
+pip3 install torch torchvision
+```
 
 ## Running codes
-## Step 1. Preprocess
-## Step 2. Main
+* Step 1. Preprocess
+* Step 2. Main
 
